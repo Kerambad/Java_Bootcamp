@@ -2,8 +2,9 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World");
         count(5,30);
-        make_array(10);
         print("");
+        make_array(10);
+        
         
     }
      public static void count (int start, int end) {
